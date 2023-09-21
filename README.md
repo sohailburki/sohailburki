@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/sohailburki4" target="blank"><img src="https://img.shields.io/twitter/follow/sohailburki4?logo=twitter&style=for-the-badge" alt="sohailburki4" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on **Frontend Development**
 
 - 🌱 I’m currently learning **CSS**
@@ -22,7 +24,8 @@
 
 - ⚡ Fun fact **I am a bookworm and a productivity nerd**
 
-### Blogs posts
+### Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
