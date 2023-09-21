@@ -25,9 +25,7 @@
 - ⚡ Fun fact **I am a bookworm and a productivity nerd**
 
 ### Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<a href="https://medium.com/@sohailkhan.edu7/why-python-best-for-amateurs-5621cbcd69e5" target="blank"> Why PYTHON?…. Best For Amateurs</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
